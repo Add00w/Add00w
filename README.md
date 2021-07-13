@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a>
 </span>
 </div>
-  ---
+
 Hey there 👋,
 
 <!--
