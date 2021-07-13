@@ -1,4 +1,4 @@
-# [![Abdullahi Addow header](/https://github.com/Add00w/Add00w/edit/main/assets/readme.png)](linkedin.com/in/abdullahi-addow-8ab170204 )
+# [![Abdullahi Addow header](https://raw.githubusercontent.com/Add00w/Add00w/edit/main/assets/readme.png)](linkedin.com/in/abdullahi-addow-8ab170204 )
 
 <!--
 **Add00w/Add00w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
