@@ -15,7 +15,7 @@
   ---
 Hey there 👋,
 
-I am fluter developer. I developed ios and android apps with this wonderful framework, integrated with <a href='https://www.apple.com/apple-pay/'>apple pay</a>,&nbsp;&nbsp;<a href='https://sentry.io/welcome/'>sentry</a>&nbsp;&nbsp;<a href='https://console.firebase.google.com/project/fir-demo-project/performance/app/ios:com.google.flood2/trends'>firebase performance</a>
+I am fluter developer. I developed ios and android apps with this wonderful framework, integrated with <a href='https://www.apple.com/apple-pay/'>apple pay</a>,&nbsp;&nbsp;<a href='https://sentry.io/welcome/'>sentry</a>,&nbsp;&nbsp;<a href='https://console.firebase.google.com/project/fir-demo-project/performance/app/ios:com.google.flood2/trends'>firebase performance</a>
 - 🔭 I’m team lead at <a href='https://bootfi.com/'>Bootfi</a>
 - 🌱 I’m currently exprimenting with flutter web
 - 💬 Ask me about Flutter related stuff
