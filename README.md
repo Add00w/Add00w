@@ -2,11 +2,11 @@
 <div align='center'>
 <span>
 <a href="https://twitter.com/Add00w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true"></a>
-</span>
+</span>&nbsp;&nbsp;
 
 <span>
 <a href="linkedin.com/in/abdullahi-addow-8ab170204"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
-</span>
+</span>&nbsp;&nbsp;
 <span>
 <a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a>
 </span>
