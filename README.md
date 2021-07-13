@@ -5,8 +5,8 @@
 </span>&nbsp;&nbsp;
 
 <span>
-<a href="linkedin.com/in/abdullahi-addow-8ab170204"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
-</span>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abdullahi-addow-8ab170204/"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
+</span>
 <span>
 <a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a>
 </span>
@@ -20,6 +20,5 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 - 🌱 I’m currently exprimenting with flutter web
 - 💬 Ask me about Flutter related stuff
 - 📫 How to reach me: social media linked top
-
-**Add00w/Add00w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌹 Want to show me some love
 
