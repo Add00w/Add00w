@@ -22,3 +22,4 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 - 📫 How to reach me: social media linked top
 - 🌹 Want to show me some love:follow me on github, twitter and subscribe my youtube.
 
+[![Addow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Add00w)](https://github.com/Add00w/github-readme-stats)
