@@ -1,11 +1,11 @@
 # [![Abdullahi Addow header](https://github.com/Add00w/Add00w/blob/main/assets/readme.png)](linkedin.com/in/abdullahi-addow-8ab170204 )
-<ul>
-<li><a href="https://twitter.com/Add00w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true" style=""></a></li>
+<p align='center'>
+<a href="https://twitter.com/Add00w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true"></a></p>
 
-<li><a href="linkedin.com/in/abdullahi-addow-8ab170204"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a></li>
+<p align='center'><a href="linkedin.com/in/abdullahi-addow-8ab170204"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a></p>
 
-<li><a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a></li>
-</ul>
+<p align='center'><a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a>
+</p>
 
 <!--
 **Add00w/Add00w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
