@@ -1,5 +1,5 @@
 # [![Abdullahi Addow header](https://github.com/Add00w/Add00w/blob/main/assets/readme.png)](linkedin.com/in/abdullahi-addow-8ab170204 )
-<div align='center'>
+<div text-align: center>
 <a href="https://twitter.com/Add00w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true"></a>
 
 <a href="linkedin.com/in/abdullahi-addow-8ab170204"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
