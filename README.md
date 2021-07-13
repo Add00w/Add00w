@@ -27,7 +27,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true (twitter icon without padding)
+[1.2]: <img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true"> (twitter icon without padding)
 [2.2]: https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
