@@ -21,4 +21,17 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 - 💬 Ask me about Flutter related stuff
 - 📫 How to reach me: social media linked top
 - 🌹 Want to show me some love
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://github.com/Add00w/Add00w/blob/main/assets/twitter.png?raw=true (twitter icon without padding)
+[2.2]: https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Add00w
+[2]: https://www.linkedin.com/in/abdullahi-addow-8ab170204/
 
