@@ -20,10 +20,11 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 - 🔭 I’m team lead at <a href='https://bootfi.com/'>Bootfi</a>
 - 🌱 I’m currently exprimenting with flutter web
 - 💬 Ask me about Flutter related stuff
-- 📫 How to reach me: social media linked top
+- 📫 How to reach me: <p align="left"> <a href="https://twitter.com/add00w" target="blank"><img src="https://img.shields.io/twitter/follow/add00w?logo=twitter&style=for-the-badge" alt="add00w" /></a> </p>
 - 🌹 Want to show me some love:follow me on github, twitter and subscribe my youtube.
 
-[![Addow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Add00w)](https://github.com/Add00w/github-readme-stats)
+  ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=add00w&show_icons=true&locale=en&theme=dark" alt="add00w" /></p>
 
 
 
@@ -42,6 +43,6 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=add00w&show_icons=true&locale=en&layout=compact" alt="add00w" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=add00w&show_icons=true&locale=en&theme=dark" alt="add00w" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=add00w&show_icons=true&locale=en&theme=dark" alt="add00w" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=add00w&" alt="add00w" /></p>
