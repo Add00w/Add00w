@@ -42,6 +42,6 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=add00w&show_icons=true&locale=en&layout=compact" alt="add00w" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=add00w&show_icons=true&locale=en" alt="add00w" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=add00w&show_icons=true&locale=en&theme=dark" alt="add00w" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=add00w&" alt="add00w" /></p>
