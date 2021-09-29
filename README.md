@@ -42,4 +42,5 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 <p>
 <img src="https://github.com/Add00w/Add00w/blob/main/assets/Book_library_app.gif" alt="book library" width="200">
 
+<img src="https://github.com/Add00w/Add00w/blob/main/assets/medium_clone.gif" alt="medium clone" width="200">
 </p>
