@@ -44,7 +44,7 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 <!-- ![](assets/Book_library_app.gif)
 ![](assets/medium_clone.gif) -->
 
-<h3 align="left">Some of my projects:</h3>
+<!-- <h3 align="left">Some of my projects:</h3>
 <div style="display:flex">
 <div>
 <p>Book store app</p>
@@ -57,4 +57,4 @@ I am fluter developer. I developed ios and android apps with this wonderful fram
 <img src="assets/medium_clone.gif" alt="medium clone" width="200">
 </div>
 
-</div>
+</div> -->
