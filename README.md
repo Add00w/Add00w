@@ -17,7 +17,6 @@ Hey there 👋,
 
 I am fluter developer. I developed ios and android apps with this wonderful framework.
 
-- 🔭 I’m Flutter developer
 - 🌱 I’m currently trying new flutter&dart teckniques
 - 💬 Ask me about Flutter related stuff
 
