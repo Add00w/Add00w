@@ -7,9 +7,9 @@
 <span>
 <a href="https://www.linkedin.com/in/add0w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
 </span>
-<span>
+<!-- <span>
 <a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a>
-</span>
+</span> -->
 </div>
 
 ---
