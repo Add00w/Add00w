@@ -18,7 +18,7 @@ Hey there 👋,
 I am Addow a fluter developer. I developed ios and android apps with this wonderful framework.
 
 - 🌱 I’m currently trying new flutter&dart teckniques
-- 💬 Ask me about Flutter related stuff
+- 💬 Ask me about Flutter/dart related stuff
 
 ---
 
