@@ -38,7 +38,7 @@ I am Addow a fluter developer. I developed ios and android apps with this wonder
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=add00w&label=Profile%20views&color=0e75b6&style=flat" alt="add00w" /> </p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=add00w&" alt="add00w" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=add00w&" alt="add00w" /></p> -->
 
 <!-- ![](assets/Book_library_app.gif)
 ![](assets/medium_clone.gif) -->
