@@ -7,9 +7,7 @@
 <span>
 <a href="https://www.linkedin.com/in/add0w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
 </span>
-<!-- <span>
-<a href="https://www.youtube.com/channel/UCYMkEyNlm6qWNsZNT-N5NGA"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/youtube.png?raw=true"></a>
-</span> -->
+
 </div>
 
 ---
@@ -48,18 +46,3 @@ alt="dart" width="40" height="40"/> </a>
  alt="postman" width="40" height="40"/> </a>
  </p>
 
-
-<h3 align="left">Some of my projects:</h3>
-<div style="display:flex">
-<div>
-<p>Book store app</p>
-<img src="assets/Book_library_app.gif" alt="book library" width="200">
-</div>
- &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-
-<div>
- <p>Medium clone</p>
-<img src="assets/medium_clone.gif" alt="medium clone" width="200">
-</div>
-
-</div>
