@@ -46,3 +46,18 @@ alt="dart" width="40" height="40"/> </a>
  alt="postman" width="40" height="40"/> </a>
  </p>
 
+---
+## Projects
+
+| Project  |  Links | Skills |
+|---|---|---|
+| **Credentials Management**</br>App for managing your credentials in one place.| https://github.com/Add00w/credentials_management | Flutter, Dart, Firebase,Hive,Google signin, firebase auth, connectivity status check,App icon, Clean Architecture|
+| </br>**Hebr**</br> Medium like app. | https://github.com/Add00w/hebr| Flutter bloc,Hydrated bloc,Firebase auth,Dark/light theme,localizations, Clean Architecture |
+|</br>**Supermarket app**</br>App that shows deals of the day, supermarkets, offers. | https://github.com/Add00w/my_supermarket | Flutter, Dart, Flutter bloc, Clean Architecture|
+| </br>**Book store**</br> Book store app showing books, topics, categories and more. | https://github.com/Add00w/share_book | Flutter, Dart, Bloc, Rating, App icon |
+| </br>**Portfolio app**</br> Portfolio app using flutter. | https://add00w.github.io/ | Flutter, Dart, Responsive design |
+| </br>**Yemen broker**</br> Final university year project. | https://github.com/Add00w/Yemen-Broker | HTML,CSS,JS, Asp.Net MVC5, JQuery, SQLServer |
+|</br>**Todo list app**</br> App for storing and managing todos. | https://github.com/Add00w/TodoList | Swift,SwiftUI, UserDefaults |
+|</br>**News app**</br> App for reading top news from hack with swift. | https://github.com/Add00w/NewsApp | Swift,SwiftUI, Api integration, Navigation |
+|</br>**Algo**</br> Leetcode problem solving. | https://github.com/Add00w/algo | Dart, Python, Problem solving, Algorithms and data structures |
+|
