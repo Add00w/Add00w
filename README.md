@@ -49,20 +49,7 @@ alt="dart" width="40" height="40"/> </a>
  </p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=add00w&show_icons=true&locale=en&theme=dark" alt="add00w" /></p>
-
-
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=add00w&label=Profile%20views&color=0e75b6&style=flat" alt="add00w" /> </p> -->
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=add00w&" alt="add00w" /></p> -->
-
-<!-- ![](assets/Book_library_app.gif)
-![](assets/medium_clone.gif) -->
-
-<!-- <h3 align="left">Some of my projects:</h3>
+<h3 align="left">Some of my projects:</h3>
 <div style="display:flex">
 <div>
 <p>Book store app</p>
@@ -75,4 +62,4 @@ alt="dart" width="40" height="40"/> </a>
 <img src="assets/medium_clone.gif" alt="medium clone" width="200">
 </div>
 
-</div> -->
+</div>
