@@ -47,6 +47,17 @@ alt="dart" width="40" height="40"/> </a>
  </p>
 
 ---
+
+## Open source
+
+| Project  |  Links | Description |
+|---|---|---|
+| **Pin code fields**</br>A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs.| https://github.com/adar2378/pin_code_fields | We used this package in our projects and I contributed to it|
+|**detectable text field**</br>Text widgets with detection features. You can detect hashtags, at sign, url, or anything you want. Helps you develop Twitter like app.| https://github.com/santa112358/detectable_text_field | We used this package in our projects and I contributed to it|
+|**goSellSDK plugin**</br>Flutter plugin compatible version of goSellSDK library for both Android and iOS that fully covers payment/authorization/card saving/card tokenization process inside your Android application. Original SDKS.| https://github.com/Tap-Payments/gosellSDK-Flutter | We used this plugin in our projects and I contributed to it|
+|**Talawa**</br> Talawa is a modular open source project to manage group activities of both non-profit organizations and businesses.| https://github.com/PalisadoesFoundation/talawa | I contributed to this project
+
+
 ## Projects
 
 | Project  |  Links | Skills |
