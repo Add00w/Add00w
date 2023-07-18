@@ -60,12 +60,12 @@ alt="dart" width="40" height="40"/> </a>
 |**Talawa**</br> Talawa is a modular open source project to manage group activities of both non-profit organizations and businesses.| https://github.com/PalisadoesFoundation/talawa | I contributed to this project
 
 
-## Projects
+## Flutter/Dart Projects
 
 | Project  |  Links | Skills |
 |---|---|---|
 |**Johrh App**</br>Johrh is ecommerce app for women clothes in KSA.|   -   | Flutter, Dart, Bloc, Clean arhcitecture, Payment, Localizations|
-| </br>**Carenal**</br>Carenal is a care professional booker application coming from Saudi Arabia.| https://play.google.com/store/apps/details?id=com.carenal.app | Flutter, Dart, Provider,Payment,Push notifications,Reviews,Localizations,Google maps,Crash analytics and deeplinks|
+| </br>**Carenal**</br>Carenal is a care professional booker application coming from Saudi Arabia.| https://apps.apple.com/sa/app/carenal/id1579889718 https://play.google.com/store/apps/details?id=com.carenal.app | Flutter, Dart, Provider,Payment,Push notifications,Reviews,Localizations,Google maps,Crash analytics and deeplinks|
 | </br>**Car details**</br>App for marketing vehicles and cars, by providing the best, friendly, powerful, and modern ways for buyers and sellers, it helps the buyer to find the vehicle or car that fits his needs, as well as it helps the seller to make his Ads appears or covers a wide area of users.| https://apps.apple.com/sa/app/car-details/id1593170098 https://play.google.com/store/apps/details?id=com.sa.bootfi.cardetails.android | Flutter, Dart, Provider,Payment,Push notifications,Localizations,Crash analytics and deeplinks, unit/widget/integration tests|
 | </br>**DotLess**</br>App that removes points on or below the Arabic letters.| https://play.google.com/store/apps/details?id=com.bootfi.dot_less | Flutter, Dart, Provider,unit/widget/integration tests, Local storage,Cubit|
 | </br>**Almehrah**</br>Flutter web app.| https://almehrah-22b68.web.app | Flutter, Dart, GoRouter(navigator 2), Material 3|
@@ -75,7 +75,16 @@ alt="dart" width="40" height="40"/> </a>
 | </br>**Book store**</br> Book store app showing books, topics, categories and more. | https://github.com/Add00w/share_book | Flutter, Dart, Bloc, Rating, App icon |
 |</br>**Portfolio app**</br> Portfolio app using flutter. | https://add00w.github.io/ | Flutter, Dart, Responsive design |
 | </br>**Quotes app**</br> an app using ChangeNotifier as state management and no external package. | https://github.com/Add00w/quotes_app | Flutter, Dart, Animations |
-| </br>**Yemen broker**</br> Final university year project. | https://github.com/Add00w/Yemen-Broker | HTML,CSS,JS, Asp.Net MVC5, JQuery, SQLServer |
+| </br>**Yemen broker**</br> Final university year project. | https://github.com/Add00w/Yemen-Broker | HTML,CSS,JS, Asp.Net MVC5, JQuery, SQLServer
+
+## Swift/SwiftUI Projects
+
+| Project  |  Links | Skills |
+|---|---|---|
 |</br>**Todo list app**</br> App for storing and managing todos. | https://github.com/Add00w/TodoList | Swift,SwiftUI, UserDefaults |
-|</br>**News app**</br> App for reading top news from hack with swift. | https://github.com/Add00w/NewsApp | Swift,SwiftUI, Api integration, Navigation |
+|</br>**News app**</br> App for reading top news from hack with swift. | https://github.com/Add00w/NewsApp | Swift,SwiftUI, Api integration, Navigation
+## Other Projects
+
+| Project  |  Links | Skills |
+|---|---|---|
 |</br>**Algo**</br> Leetcode problem solving. | https://github.com/Add00w/algo | Dart, Python, Problem solving, Algorithms and data structures
