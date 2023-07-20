@@ -81,6 +81,7 @@ alt="dart" width="40" height="40"/> </a>
 
 | Project  |  Links | Skills |
 |---|---|---|
+</br>**Trivia game**</br> Trivia game. | https://github.com/Add00w/TriviaApp | Swift,SwiftUI,MVVM, Api integration, Navigation
 |</br>**Todo list app**</br> App for storing and managing todos. | https://github.com/Add00w/TodoList | Swift,SwiftUI, UserDefaults |
 |</br>**News app**</br> App for reading top news from hack with swift. | https://github.com/Add00w/NewsApp | Swift,SwiftUI, Api integration, Navigation
 ## Other Projects
