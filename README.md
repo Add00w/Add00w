@@ -64,19 +64,11 @@ alt="dart" width="40" height="40"/> </a>
 
 | Project  |  Links | Skills |
 |---|---|---|
-|**Baab**</br>Baab is an app that simplifies the process of finding the right job with the least possible effort. It allows sharing/posting ideas and participating the local events too.|   https://baab.app   | Flutter, Dart, Riverpod, Clean arhcitecture, Multilingual, deep-links, Sentry/Crashlytics, FCM, Real-time chat|
-| </br>**Johrh App**</br>Johrh is ecommerce app for women clothes in KSA.|   -   | Flutter, Dart, Bloc, Clean arhcitecture, Payment, Localizations|
-| </br>**Carenal**</br>Carenal is a care professional booker application coming from Saudi Arabia.| https://www.carenal.com.sa | Flutter, Dart, Provider,Payment,Push notifications,Reviews,Localizations,Google maps,Crash analytics and deeplinks|
+</br>**Baab**</br> Baab is an app that simplifies the process of finding the right job with the least possible effort. It allows sharing/posting ideas and participating the local events too. | https://baab.app | Flutter, Dart, Riverpod, Clean arhcitecture, Multilingual, deep-links, Sentry/Crashlytics, FCM, Real-time chat
+|</br>**Johrh App**</br> Johrh is ecommerce app for women clothes in KSA. | https://johrh.com | Flutter, Dart, Bloc, Clean arhcitecture, Payment, Localizations |
+|</br>**Carenal**</br> Carenal is a care professional booker application coming from Saudi Arabia. | https://www.carenal.com.sa | Flutter, Dart, Provider,Payment,Push notifications,Reviews,Localizations,Google maps,Crash analytics and deeplinks|
 | </br>**Car details**</br>App for marketing vehicles and cars, by providing the best, friendly, powerful, and modern ways for buyers and sellers, it helps the buyer to find the vehicle or car that fits his needs, as well as it helps the seller to make his Ads appears or covers a wide area of users.| https://apps.apple.com/sa/app/car-details/id1593170098 https://play.google.com/store/apps/details?id=com.sa.bootfi.cardetails.android | Flutter, Dart, Provider,Payment,Push notifications,Localizations,Crash analytics and deeplinks, unit/widget/integration tests|
-| </br>**DotLess**</br>App that removes points on or below the Arabic letters.| https://play.google.com/store/apps/details?id=com.bootfi.dot_less | Flutter, Dart, Provider,unit/widget/integration tests, Local storage,Cubit|
-| </br>**Almehrah**</br>Flutter web app.| https://almehrah-22b68.web.app | Flutter, Dart, GoRouter(navigator 2), Material 3|
-| </br> **Credentials Management**</br>App for managing your credentials in one place.| https://github.com/Add00w/credentials_management | Flutter, Dart, Firebase,Hive,Google signin, firebase auth, connectivity status check,App icon, Clean Architecture|
-| </br>**Hebr**</br> Medium like app. | https://github.com/Add00w/hebr| Flutter bloc,Hydrated bloc,Firebase auth,Dark/light theme,localizations, Clean Architecture |
-|</br>**Supermarket app**</br>App that shows deals of the day, supermarkets, offers. | https://github.com/Add00w/my_supermarket | Flutter, Dart, Flutter bloc, Clean Architecture|
-| </br>**Book store**</br> Book store app showing books, topics, categories and more. | https://github.com/Add00w/share_book | Flutter, Dart, Bloc, Rating, App icon |
-|</br>**Portfolio app**</br> Portfolio app using flutter. | https://add00w.github.io/ | Flutter, Dart, Responsive design |
-| </br>**Quotes app**</br> an app using ChangeNotifier as state management and no external package. | https://github.com/Add00w/quotes_app | Flutter, Dart, Animations |
-| </br>**Yemen broker**</br> Final university year project. | https://github.com/Add00w/Yemen-Broker | HTML,CSS,JS, Asp.Net MVC5, JQuery, SQLServer
+| </br>**DotLess**</br>App that removes points on or below the Arabic letters.| https://play.google.com/store/apps/details?id=com.bootfi.dot_less | Flutter, Dart, Provider,unit/widget/integration tests, Local storage,Cubit
 
 ## Swift/SwiftUI Projects
 
@@ -85,6 +77,7 @@ alt="dart" width="40" height="40"/> </a>
 </br>**Trivia game**</br> Trivia game. | https://github.com/Add00w/TriviaApp | Swift,SwiftUI,MVVM, Api integration, Navigation
 |</br>**Todo list app**</br> App for storing and managing todos. | https://github.com/Add00w/TodoList | Swift,SwiftUI, UserDefaults |
 |</br>**News app**</br> App for reading top news from hack with swift. | https://github.com/Add00w/NewsApp | Swift,SwiftUI, Api integration, Navigation
+
 ## Other Projects
 
 | Project  |  Links | Skills |
