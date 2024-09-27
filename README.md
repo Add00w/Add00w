@@ -5,7 +5,7 @@
 </span>&nbsp;&nbsp;
 
 <span>
-<a href="https://www.linkedin.com/in/add0w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/add00w"><img height="30" src="https://github.com/Add00w/Add00w/blob/main/assets/linkedin.png?raw=true"></a>
 </span>
 
 </div>
