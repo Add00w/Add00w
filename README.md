@@ -56,6 +56,7 @@ alt="dart" width="40" height="40"/> </a>
 |---|---|---|
 | **Pin code fields**</br>A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs.| https://github.com/adar2378/pin_code_fields | We used this package in our projects and I contributed to it|
 |**detectable text field**</br>Text widgets with detection features. You can detect hashtags, at sign, url, or anything you want. Helps you develop Twitter like app.| https://github.com/santa112358/detectable_text_field | We used this package in our projects and I contributed to it|
+|**Upgrader**</br>A Flutter package for prompting users to upgrade when there is a newer version of the app in the store.| https://github.com/larryaasen/upgrader | We used this package in our projects and I added the ability of getting the app descriptions localized from the iTunes api|
 |**goSellSDK plugin**</br>Flutter plugin compatible version of goSellSDK library for both Android and iOS that fully covers payment/authorization/card saving/card tokenization process inside your Android application. Original SDKS.| https://github.com/Tap-Payments/gosellSDK-Flutter | We used this plugin in our projects and I contributed to it|
 |**Talawa**</br> Talawa is a modular open source project to manage group activities of both non-profit organizations and businesses.| https://github.com/PalisadoesFoundation/talawa | I contributed to this project
 
@@ -66,7 +67,7 @@ alt="dart" width="40" height="40"/> </a>
 |---|---|---|
 </br>**Baab**</br> Baab is an app that simplifies the process of finding the right job with the least possible effort. It allows sharing/posting ideas and participating the local events too. | https://baab.app | Flutter, Dart, Riverpod, Clean arhcitecture, Multilingual, deep-links, Sentry/Crashlytics, FCM, Real-time chat
 |</br>**Johrh App**</br> Johrh is ecommerce app for women clothes in KSA. | https://johrh.com | Flutter, Dart, Bloc, Clean arhcitecture, Payment, Localizations |
-|</br>**Carenal**</br> Carenal is a care professional booker application coming from Saudi Arabia. | https://www.carenal.com.sa | Flutter, Dart, Provider,Payment,Push notifications,Reviews,Localizations,Google maps,Crash analytics and deeplinks|
+|</br>**Carenal**</br> Carenal is a care professional booker application coming from Saudi Arabia. | https://apps.apple.com/sa/app/carenal/id1579889718 | Flutter, Dart, Provider,Payment,Push notifications,Reviews,Localizations,Google maps,Crash analytics and deeplinks|
 | </br>**Car details**</br>App for marketing vehicles and cars, by providing the best, friendly, powerful, and modern ways for buyers and sellers, it helps the buyer to find the vehicle or car that fits his needs, as well as it helps the seller to make his Ads appears or covers a wide area of users.| https://apps.apple.com/sa/app/car-details/id1593170098 https://play.google.com/store/apps/details?id=com.sa.bootfi.cardetails.android | Flutter, Dart, Provider,Payment,Push notifications,Localizations,Crash analytics and deeplinks, unit/widget/integration tests|
 | </br>**DotLess**</br>App that removes points on or below the Arabic letters.| https://play.google.com/store/apps/details?id=com.bootfi.dot_less | Flutter, Dart, Provider,unit/widget/integration tests, Local storage,Cubit
 
