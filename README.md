@@ -15,10 +15,10 @@ Hey there 👋,
 
 I am Addow a fluter developer. I developed ios and android apps with this wonderful framework.
 
-- 🌱 I’m currently trying new flutter&dart teckniques
+- 🌱 I’m trying new Flutter/Dart teckniques
+- 🌱 Learning Jetpack Compose
 - 🌱 Learning SwiftUI
 - 🌱 Solving problems on [Leetcode](https://leetcode.com/Add00w)
-- 💬 Ask me about Flutter/dart and generally Software engineering concepts.
 
 ---
 
